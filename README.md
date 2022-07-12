@@ -1,1 +1,2 @@
-# teatime-gitbranch-strategy
+# 티타임(teatime)
+서로를 채워주는 시간, 티타임 ☕️
